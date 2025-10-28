@@ -1,0 +1,31 @@
+# 📂 Datasets Information
+
+
+## 🧬 Dataset 1: ALL vs AML Gene Expression
+- **Description:** Gene expression data (log2 normalized) for classifying Acute Lymphoblastic Leukemia (ALL) vs Acute Myeloid Leukemia (AML).
+-  **Kaggle Link:** [https://www.kaggle.com/datasets/crawford/gene-expression/data](https://www.kaggle.com/datasets/crawford/gene-expression/data)
+
+---
+
+## 🌬️ Dataset 2: Asthma Prediction
+- **Description:** Synthetic medical dataset containing patient health features for predicting asthma occurrence.
+- **Kaggle Link:** [https://www.kaggle.com/datasets/miadul/asthma-synthetic-medical-dataset](https://www.kaggle.com/datasets/miadul/asthma-synthetic-medical-dataset)
+
+---
+
+## 🎗️ Dataset 3: BRCA Multi-Omics TCGA
+- **Description:** Breast Cancer (BRCA) dataset combining multi-omics and clinical data for survival analysis.
+- **Kaggle Link:** [https://www.kaggle.com/datasets/samdemharter/brca-multiomics-tcga](https://www.kaggle.com/datasets/samdemharter/brca-multiomics-tcga)
+
+
+---
+
+## 🧠 Dataset 4: Brain Cancer 
+- **Description:** Gene expression data from five brain tumor types (Ependymoma, Glioblastoma, etc.).
+- **Kaggle Link:** [https://www.kaggle.com/code/alexandervc/gse50161-five-brain-cancers-eda-first-look/data](https://www.kaggle.com/code/alexandervc/gse50161-five-brain-cancers-eda-first-look/data)
+
+
+---
+
+
+
